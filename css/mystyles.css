@@ -1,0 +1,41 @@
+.namefont{
+    font-family: 'Arvo', serif;
+}
+.boldfont{
+    /*font-family: 'Goblin One', cursive;*/
+    font-family: 'Poppins', sans-serif; 
+    
+}
+.tinyfont{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+.boldfont2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+}
+.tinyfont2{
+    font-family: 'Arvo', serif;
+    font-weight: 300;
+}
+.bg_fondo{
+    background-color:  rgba(255, 0, 120,0.13);
+    border-radius: 25px ;
+}
+.textm{
+    font-size: 14px;
+    text-align: justify;
+}
+.sombra{
+    /*animation: fadeIn 3s;*/
+    box-shadow: -2px 2px 4px 1px rgba(186,186,186,1);
+    /*box-shadow: rgba(182,193,224,1);*/
+}
+.marco-img{
+    border: 3px solid #07012b;
+    padding: 8px;
+    z-index: 100000;
+}
+.text-violet{
+    color: #c800ff;
+}
